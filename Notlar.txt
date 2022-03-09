@@ -1,0 +1,4 @@
+Banner degismek icin resource icersine banner.txt dosyasini actik ve 
+basligin seklini ise https://devops.datenkollektiv.de/banner.txt/index.html
+web adresiden belirledik.
+//------------------------------------
